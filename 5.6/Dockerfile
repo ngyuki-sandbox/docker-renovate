@@ -1,1 +1,1 @@
-FROM php:5.6.39-alpine
+FROM php:5.6.40-alpine
