@@ -9,6 +9,7 @@
     "rebaseWhen": "behind-base-branch",
     "prHourlyLimit": 10,
     "prConcurrentLimit": 10,
+    "requiredStatusChecks": null,
     "packageRules": [
         {
             "datasources": ["docker"],
