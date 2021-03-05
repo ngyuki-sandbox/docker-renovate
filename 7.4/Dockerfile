@@ -1,1 +1,1 @@
-FROM php:7.4.15-alpine
+FROM php:7.4.16-alpine
